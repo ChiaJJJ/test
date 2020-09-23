@@ -8,5 +8,6 @@
 public class Desk {
     public static void main(String[] args) {
         System.out.println("桌面版github提交测试");
+        System.out.println("桌面版github更新后提交测试");
     }
 }
